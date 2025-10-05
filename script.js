@@ -9,7 +9,7 @@
     const scrollRightBtn = document.getElementById('scroll-right-btn');
     const bgChangeBtn = document.getElementById('bg-change-btn');
     const bgUploadInput = document.getElementById('bg-upload');
-    const botAvatarUrl = 'img/adlily.png';
+    const botAvatarUrl = 'img/adlily.jpg';
 
     const suggestionChips = [
         "Siapa Adnan?", "Apa saja skill-nya?", "Lihat proyek", "Apa prinsip hidupnya?",
