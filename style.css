@@ -1,6 +1,6 @@
 body {
     font-family: 'Inter', sans-serif;
-    background-image: url('img/backgroundd.png');
+    background-image: url('img/backgroundd.jpg');
     transition: background-image 0.5s ease-in-out;
     background-size: cover;
     background-position: center;
